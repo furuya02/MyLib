@@ -1,0 +1,2 @@
+# MyLib
+Sample of CocoaPods
